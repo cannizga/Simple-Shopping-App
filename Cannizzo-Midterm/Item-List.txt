@@ -1,0 +1,18 @@
+Granny Smith Apples
+3.99
+Banana
+0.48
+Peaches
+2.99
+Chicken Breast
+6.1512
+Ground Beef
+4.99
+Catfish
+6.99
+Waffles
+5.9415
+Pizza
+4.99
+Tub Of Ice Cream
+2.99
